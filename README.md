@@ -1,6 +1,20 @@
-# GamePhysicsPhaser
-Game Physics using phaser
-This is a tutorial on the basics of phaser and then Game physics in it 
-First we will examine Phase simple basics
-This sample code will basically create a simple box and run on the browser. 
-The size of the box can be changed 
+## Table of contents
+* [General info](#Getting started in Phaser)
+* [Technologies](#Phaser HTML 5)
+* [Setup](# No setup needed Just download the files)
+
+## General info
+This project is simple HTML5
+	
+## Technologies
+Project is created with:
+* HTML5
+* Javascript 
+* Phaser 5
+	
+## Setup
+To run this project, install download files in a directory and then click the html files
+* The assets can be placed in asset folder
+* Enable the Chrome server
+* Make the chrome server point to the folder of the main project 
+
